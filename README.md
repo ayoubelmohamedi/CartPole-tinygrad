@@ -10,6 +10,12 @@ Q-learning is a reinforcement learning algorithm that trains an agent to assign 
 ## Gymnasium
  A classic benchmark used in reinforcement learning (RL) to illustrate and test RL algorithms. It simulates a simple physics-based control problem.(2)
 
+## Requirements
+- Python 3.7+
+- tinygrad
+- gymnasium
+- numpy
+- matplotlib
 
 ## Sources 
 1- [Q-learning](https://en.wikipedia.org/wiki/Q-learning)
