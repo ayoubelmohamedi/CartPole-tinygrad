@@ -5,10 +5,10 @@ This project implements a Q-Learning reinforcement learning algorithm using the 
 ## Q-Learning 
 Q-learning is a reinforcement learning algorithm that trains an agent to assign values to its possible actions based on its current state, without requiring a model of the environment (model-free).(1)
 
+!["A Q-learning table mapping states to actions, initially filled with zeros and updated iteratively through training.](assets/Q-Learning_matrix_init_and_after_training.png)
+
 ## Gymnasium
  A classic benchmark used in reinforcement learning (RL) to illustrate and test RL algorithms. It simulates a simple physics-based control problem.(2)
-
-
 
 
 ## Sources 
