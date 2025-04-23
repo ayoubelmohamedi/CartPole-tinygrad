@@ -24,6 +24,9 @@ Q-learning is a reinforcement learning algorithm that trains an agent to assign 
 - numpy
 - matplotlib
 
+```bash
+pip install tinygrad gymnasium numpy matplotlib
+```
 ## Sources 
 1- [Q-learning](https://en.wikipedia.org/wiki/Q-learning)
 2- [Gymnasium](https://www.bomberbot.com/reinforcement-learning/reinforcement-learning-made-easy-with-gymnasium/)
